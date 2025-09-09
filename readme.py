@@ -16,14 +16,3 @@
 # python gui_app.py      # For GUI
 
 
-# ---
-
-# ## 🚀 Next Steps (Optional but Great):
-# - [ ] Add login system
-# - [ ] Add monthly spending limit alerts
-# - [ ] Export reports to Excel or PDF
-# - [ ] Add voice-based expense input using SpeechRecognition
-
-# ---
-
-# Would you like me to send all these as a ZIP folder or help you set it up in your system?
